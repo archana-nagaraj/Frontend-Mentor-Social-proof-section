@@ -31,8 +31,8 @@ Screen_Laptop_1440 <br>
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Repo](https://github.com/archana-nagaraj/Frontend-Mentor-Social-proof-section)
+- Live Site URL: [Github Pages](https://archana-nagaraj.github.io/Frontend-Mentor-Social-proof-section/)
 
 ## My process
 
